@@ -11,3 +11,5 @@ The project implements the features shown in the livestream. The hope is that in
 - Keep track of the number of words typed. 
 - Update Graphics.
 
+
+Project was built using Unity version `2019.4.12f1`
